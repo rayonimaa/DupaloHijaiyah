@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Unreal Engine Folders
 Binaries/
 Build/
@@ -25,3 +26,12 @@ Saved/
 *.exe
 *.dll
 *.target
+=======
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vs/
+*.sln
+>>>>>>> origin/stage-three/build
