@@ -34,10 +34,11 @@ Menghadirkan narasi petualangan yang mendidik tanpa meninggalkan sisi hiburan. F
 
 ## Development Status
 
-Proyek ini sedang dalam tahap pengembangan aktif, fokus pada:
-1. Pengembangan sistem menu dan navigasi UI yang intuitif.
+Proyek ini sedang dalam tahap pengembangan tidak aktif, beberapa yang ingin dikambangkan adalah:
+1. Pengembangan sistem menu dan navigasi UI yang intuitif--✅.
 2. Implementasi logika interaksi objek di dalam pulau.
-3. Optimasi grafis agar tetap lancar dijalankan namun tetap terlihat indah.
+3. Optimasi grafis agar tetap lancar dijalankan namun tetap terlihat indah--✅.
+4. penelesaian boss & stage terakhir.
 
 ---
 
